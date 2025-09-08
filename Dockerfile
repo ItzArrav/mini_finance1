@@ -1,2 +1,2 @@
-FROM nginx:alpine
-COPY . /usr/share/nginx/html 
+ nginx:alpine
+ . /usr/share/nginx/html 
